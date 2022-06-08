@@ -2,9 +2,9 @@
 
 ## Participantes (github username) com link para pasta contendo a solução
 - [ cassiofreitas ](./dhme_aula06_atividade_1_cassio)
-- [ renatakim ](./LuanME)
+- [ renatakim ]()
 - [ santanagabi ]()
-- [ LuanME ]()
+- [ LuanME ](./LuanME)
 - [ martinelli105 ]()
 
 ## Respostas para o questionário da atividade 
